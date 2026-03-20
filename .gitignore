@@ -1,0 +1,7 @@
+data/raw/
+data/incoming/
+logs/
+__pycache__/
+*.pyc
+.env
+venv/
